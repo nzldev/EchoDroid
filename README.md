@@ -1,4 +1,5 @@
 # EchoDroid
+[![](https://jitpack.io/v/nzldev/EchoDroid.svg)](https://jitpack.io/#nzldev/EchoDroid)
 Laravel Websocket Client
 
 ## Installation
